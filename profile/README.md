@@ -1,31 +1,26 @@
-# 🌐 username.gg — Your Ultimate Bio Link in One Place
+# 🌐 username.gg — Your Ultimate Bio Link
 
-**username.gg** is a modern, minimal, and powerful **bio link platform** where creators, brands, and hustlers can build a single link that connects their audience to everything they do — websites, shops, socials, and more.  
-No more link juggling. Just one clean page.
+**username.gg** is a sleek and powerful **bio link platform** for creators, brands, and businesses. Share everything with one link — your socials, stores, and more.
+
 ---
 
 ## 🚀 Features
 
-- **Custom Username Links** like `username.gg/yourname`
-- ⚡ **Lightning-fast performance** and SEO optimized
-- 🎨 **Themes & Layouts** — Fully customizable bio pages
-- 🔗 **Unlimited Links** — Add YouTube, Instagram, Shops, etc.
-- 📊 **Analytics** — Track views and clicks (coming soon)
-- 💾 **Hosted on Vercel** with Node.js & MongoDB backend
-- 🛡️ **Secure and Private** by default
+- Custom usernames like `username.gg/yourname`
+- Fast, SEO-optimized, and mobile-friendly
+- Custom themes, layouts & unlimited links
+- Secure by default, analytics coming soon
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- **Frontend:** Next.js, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB Atlas
-- **Auth:** JWT-based authentication
-- **Hosting:** Vercel + Cloudflare CDN
+- **Next.js** + **Tailwind CSS**
+- **Node.js**, **Express**, **MongoDB**
+- Hosted on **Vercel** + **Cloudflare**
 
 ---
 
 ## 📝 License
 
-MIT License © [pipinthedev]
+MIT © [pipinthedev]

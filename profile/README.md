@@ -1,12 +1,31 @@
-## Hi there 👋
+# 🌐 username.gg — Your Ultimate Bio Link in One Place
 
-<!--
+**username.gg** is a modern, minimal, and powerful **bio link platform** where creators, brands, and hustlers can build a single link that connects their audience to everything they do — websites, shops, socials, and more.  
+No more link juggling. Just one clean page.
+---
 
-**Here are some ideas to get you started:**
+## 🚀 Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Custom Username Links** like `username.gg/yourname`
+- ⚡ **Lightning-fast performance** and SEO optimized
+- 🎨 **Themes & Layouts** — Fully customizable bio pages
+- 🔗 **Unlimited Links** — Add YouTube, Instagram, Shops, etc.
+- 📊 **Analytics** — Track views and clicks (coming soon)
+- 💾 **Hosted on Vercel** with Node.js & MongoDB backend
+- 🛡️ **Secure and Private** by default
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB Atlas
+- **Auth:** JWT-based authentication
+- **Hosting:** Vercel + Cloudflare CDN
+
+---
+
+## 📝 License
+
+MIT License © [pipinthedev]

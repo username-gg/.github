@@ -1,4 +1,4 @@
-# 🌐 username.gg — Your Ultimate Bio Link
+# 🌐 username.gg - Your Ultimate Bio Link
 
 **username.gg** is a sleek and powerful **bio link platform** for creators, brands, and businesses. Share everything with one link — your socials, stores, and more.
 
